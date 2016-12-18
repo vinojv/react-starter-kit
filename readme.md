@@ -9,7 +9,8 @@ run
 ##Install node
 ```
 nvm install stable
-nvm use stable```
+nvm use stable
+```
 
 ##Install node package
 ```npm i```
