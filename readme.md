@@ -7,7 +7,8 @@ run
 ```source ~/.profile```
 
 ##Install node
-```nvm install stable
+```
+nvm install stable
 nvm use stable```
 
 ##Install node package
